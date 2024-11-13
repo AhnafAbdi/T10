@@ -2,7 +2,7 @@
 const teams = [
     {
         name: "Team Gen Z", 
-        logo: "https://raw.githubusercontent.com/gmpilot/t10/master/genz.JPG", // Full URL for image
+        logo: "https://raw.githubusercontent.com/AhnafAbdi/t10/main/genz.JPG", // Full URL for image
         matches: [
             { ownRunScore: 102, ownOver: 10, againstTeamRunScore: 103, againstTeamOver: 9.3, wickets: 6 },
             { ownRunScore: 93, ownOver: 10, againstTeamRunScore: 95, againstTeamOver: 5.5, wickets: 4 },
@@ -13,7 +13,7 @@ const teams = [
     },
     {
         name: "Crack Platoon",
-        logo: "https://raw.githubusercontent.com/gmpilot/t10/master/crack.JPG", // Full URL for image
+        logo: "https://raw.githubusercontent.com/AhnafAbdi/t10/main/crack.JPG", // Full URL for image
         matches: [
             { ownRunScore: 110, ownOver: 8.2, againstTeamRunScore: 109, againstTeamOver: 10, wickets: 3 },
             { ownRunScore: 95, ownOver: 5.5, againstTeamRunScore: 93, againstTeamOver: 10, wickets: 2 },
@@ -26,7 +26,7 @@ const teams = [
     },
     {
         name: "Freedom Fighters",
-        logo: "https://raw.githubusercontent.com/gmpilot/t10/master/freedom.PNG", // Full URL for image
+        logo: "https://raw.githubusercontent.com/AhnafAbdi/t10/main/freedom.PNG", // Full URL for image
         matches: [
             { ownRunScore: 103, ownOver: 9.3, againstTeamRunScore: 102, againstTeamOver: 10, wickets: 3 },
             { ownRunScore: 127, ownOver: 9.3, againstTeamRunScore: 126, againstTeamOver: 10, wickets: 8 },
@@ -39,7 +39,7 @@ const teams = [
     },
     {
         name: "Tiger Battalions",
-        logo: "https://raw.githubusercontent.com/gmpilot/t10/master/tiger.JPG", // Full URL for image
+        logo: "https://raw.githubusercontent.com/AhnafAbdi/t10/main/tiger.JPG", // Full URL for image
         matches: [
             { ownRunScore: 96, ownOver: 9.5, againstTeamRunScore: 92, againstTeamOver: 10, wickets: 4 },
             { ownRunScore: 126, ownOver: 10, againstTeamRunScore: 127, againstTeamOver: 9.3, wickets: 1 },
@@ -50,7 +50,7 @@ const teams = [
     },
     {
         name: "Bangladesh Reborn",
-        logo: "https://raw.githubusercontent.com/gmpilot/t10/master/reborn.PNG", // Full URL for image
+        logo: "https://raw.githubusercontent.com/AhnafAbdi/t10/main/reborn.PNG", // Full URL for image
         matches: [
             { ownRunScore: 109, ownOver: 10, againstTeamRunScore: 110, againstTeamOver: 8.2, wickets: 4 },
             { ownRunScore: 92, ownOver: 10, againstTeamRunScore: 96, againstTeamOver: 9.5, wickets: 5 },
