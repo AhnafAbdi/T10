@@ -1,2 +1,2 @@
-# T10
-Bangasura tournament
+# t10
+Bangladesh T10 Cricket Tournament ZZU
